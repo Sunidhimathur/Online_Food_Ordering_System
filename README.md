@@ -2,6 +2,6 @@
 
 View Project: http://nidhimathur99.pythonanywhere.com/
 
-Admin Panel:
-Username: nidhi
+Admin Panel:<br>
+Username: nidhi<br>
 Password: Foodcity
