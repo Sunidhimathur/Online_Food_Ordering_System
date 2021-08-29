@@ -2,6 +2,4 @@
 
 View Project: http://nidhimathur99.pythonanywhere.com/
 
-Admin Panel:<br>
-Username: Food<br>
-Password: Foodcity
+
